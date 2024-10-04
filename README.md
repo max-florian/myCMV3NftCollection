@@ -1,6 +1,3 @@
-# myCMV3NftCollection
-
-
 # Max's Collection
 
 Welcome to **Max's Collection**, my very own Candy Machine V3 NFT Collection.
