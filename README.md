@@ -37,7 +37,7 @@ To get the project running locally, follow these steps:
 3. Install dependencies:
 
     ```bash
-    npm install
+    npm install --legacy-peer-deps
     ```
 
 4. Run the project:
