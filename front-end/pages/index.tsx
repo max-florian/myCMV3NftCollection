@@ -10,7 +10,7 @@ const IndexPage = ({}) => {
   return (
     <Suspense fallback={`Loading...`}>
       <Head>
-        <title>Neo CMv3</title>
+        <title>Maxs Collection</title>
         <meta charSet="utf-8"/>
         <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no"/>
         <meta name="theme-color" content="#000"/>
